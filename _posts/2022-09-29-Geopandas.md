@@ -10,7 +10,7 @@ pd.options.display.float_format = '{:.5f}'.format
 
 # geopandas.GeoSeries.area
 
-## Definition
+## Definition 정의
 
 - ### 각 기하 도형의 면적 값을 반환한다.
 
